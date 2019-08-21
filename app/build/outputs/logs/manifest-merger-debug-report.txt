@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.nfc.hce
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:10:9-48
+uses-permission#android.permission.NFC
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:13:5-62
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:13:22-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:15:5-97
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:17:5-100
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.read_external_storage
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:18:5-96
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:18:22-77
+uses-sdk
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:22:9-38
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:21:9-35
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:24:5-68:19
+	android:label
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.citic.cn.hce.MainActivity
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:36:27-74
+service#com.citic.cn.hce.CardService
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:41:9-61:19
+	android:enabled
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:44:13-36
+	android:permission
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:42:13-56
+intent-filter#android.intent.category.LAUNCHER+android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:49:17-93
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:49:25-90
+meta-data#android.nfc.cardemulation.host_apdu_service
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:58:13-60:52
+	android:resource
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:60:17-49
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:59:17-75
+provider#com.citic.cn.hce.provider.HCEProvider
+ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:63:9-66:78
+	android:authorities
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:66:13-66
+	android:exported
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:64:13-36
+	android:name
+		ADDED from D:\workspace\AndroidStudio\citic\HCE\app\src\main\AndroidManifest.xml:65:13-65
